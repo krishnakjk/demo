@@ -1,0 +1,22 @@
+#cont{
+    background-image: url("./Assets/smoke.jpg");
+    height: 950px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#log{
+   
+    margin-left: 800px;
+  margin-top: 300px;
+  /* boxShadow:"0 4px 8px 0 rgba(0,0,0,0.2)" */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+  background-color:#06172B;
+  border-radius: 10%;
+}
+#name{
+    color: white;
+}
+#email{
+    color: white;
+}

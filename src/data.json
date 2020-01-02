@@ -1,0 +1,71 @@
+{
+  "Balancestatus":[
+      {
+            "type":"Paid Leaves",
+             "Remaining":"19",
+             "used":"1",
+             "allowance":"20",
+             "leaves":"Last used in March"
+      },
+      {
+        "type":"Sick Leave",
+         "Remaining":"5",
+         "used":"7",
+         "allowance":"12",
+         "leaves":"Last used in August"
+  },
+  {
+    "type":"Carried over from last year",
+     "Remaining":"2",
+     "used":"4",
+     "allowance":"6",
+     "leaves":"Recently used this month"
+},
+{
+    "type":"Paid Leaves",
+     "Remaining":"19",
+     "used":"1",
+     "allowance":"20",
+     "leaves":"Last used in March"
+},
+ {
+    "type":"Maternaity Leaves",
+     "Remaining":"0",
+     "used":"0",
+     "allowance":"0",
+     "leaves":"-"
+    },
+{
+    "type":"Paternity Leaves",
+     "Remaining":"0",
+     "used":"0",
+     "allowance":"0",
+     "leaves":"-"
+},
+{
+    "type":"Caregiver Leaves",
+     "Remaining":"0",
+     "used":"0",
+     "allowance":"0",
+     "leaves":"-"
+}
+  ],
+
+    "Leavereports":[
+        {
+        "dates":"Jun13 - June 17,2018",
+        "day":"2days OOF ",
+        "request":" Declined "
+    },{
+        "dates":"Aug 1,2018 ",
+        "day":"1day OOF ",
+        "request":" Approved "
+    },
+    {
+        "dates":"May4 - May 7,2018",
+        "day":"3days OOF ",
+        "request":" Approved "
+    }
+
+]
+}
