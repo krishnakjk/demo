@@ -17,7 +17,7 @@ componentWillMount(){
    Axios.get('http://dummy.restapiexample.com/api/v1/employees ')
     .then(response=>response.data)
     .then(data=>this.setState({data}))
-    console.log(data)
+    
 }
 
 
